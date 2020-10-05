@@ -1,0 +1,14 @@
+
+auctionify/__pycache__/
+
+.idea/inspectionProfiles/
+
+.idea/
+
+venv/
+
+venv/lib/python3.8/site-packages/__pycache__/
+
+db.sqlite3
+
+*.pyc
