@@ -1,16 +1,14 @@
 
-auctionify/__pycache__/
+auctionify/db.sqlite3
 
-.idea/inspectionProfiles/
+auctionify/auctionify/__pycache__/
+
+auctionify/auction_files/
+
+auctionify/auction/migrations/__pycache__/
+
+auctionify/auction/__pycache__/
+
+auctionify/auction/migrations/
 
 .idea/
-
-venv/
-
-venv/lib/python3.8/site-packages/__pycache__/
-
-db.sqlite3
-
-*.pyc
-
-auction/migrations/
